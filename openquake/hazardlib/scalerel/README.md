@@ -1,7 +1,7 @@
 ## Magnitude Area C-Scaling
 
 The simplified "c" magnitude-area scaling relations are used in the NZ-NSHM 2022. 
-In the hazard cacluations, these relations are required for the distributed seismicity models.
+In the hazard calculations, these relations are required for the distributed seismicity models.
 
 
 #### What to do?
