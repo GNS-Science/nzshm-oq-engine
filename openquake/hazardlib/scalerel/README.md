@@ -12,6 +12,6 @@ openquake/hazardlib/scalerel/ of your active OpenQuake installation.
 
 Now, that's a hack. But, I believe that there is nothing illegal about it.
 
-Some examples of source (xml) files for the distrbuted seismicity models 
+Some examples of source (xml) files for the distributed seismicity models 
 can be found at: https://github.com/GNS-Science/nz-oq-distrseis/tree/main/haz-testdrive/sources
 
