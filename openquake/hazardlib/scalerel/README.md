@@ -1,3 +1,11 @@
+## NOTE
+
+This "cscaling.py" is not required anymore as it has been now included in the GEM/OpenQuake officially.
+
+https://github.com/gem/oq-engine/pull/7736
+
+
+
 ## Magnitude Area C-Scaling
 
 The simplified "c" magnitude-area scaling relations are used in the NZ-NSHM 2022. 
